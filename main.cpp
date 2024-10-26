@@ -273,8 +273,6 @@ int main() {
                 cout << "Результирующая строка: " << result << endl;
                 break;
             }
-            default:
-                cout << "Неверный выбор\n";
         }
     }
     return 0;
